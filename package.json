@@ -1,0 +1,33 @@
+{
+  "name": "spark-web-js",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@icon-park/vue-next": "^1.4.2",
+    "base-64": "^1.0.0",
+    "crypto-js": "^4.2.0",
+    "element-plus": "^2.5.3",
+    "highlight.js": "^11.9.0",
+    "katex": "^0.16.9",
+    "lodash": "^4.17.21",
+    "markdown-it": "^14.0.0",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-math": "^4.1.1",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "vite": "^5.0.8"
+  }
+}
