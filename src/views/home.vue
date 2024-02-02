@@ -102,9 +102,9 @@
   
   // 自己的ApiKey 3.1 先注册星火大模型，生成APPID、APISecret、APIKey
   const apiData = ref({
-    APPID: "5d3a436b",
-    APISecret: "NTRhY2RhMDFmMWIzYTA2MWJhNjE4MzIx",
-    APIKey: "26ec9c21db3826c3a76054a726536a0e",
+    APPID: "",
+    APISecret: "",
+    APIKey: "",
   });
 
   const chatListDom = ref(null);
